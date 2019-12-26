@@ -1,0 +1,62 @@
+body {
+		background-image: url(../images/cars_logo.png);
+		width: 100%;
+		height: 100%;
+	    background-repeat: no-repeat;
+	    background-size: cover;		
+		}	
+		#loggeduser {
+			color: white;
+			font-size: 20px;
+			padding-top: 10px;
+		}		
+		.panel-body {
+			background: white;			
+		
+		}	
+		#carcont {
+			opacity: 0.8;
+			position: relative;
+			left: 100px;
+		}
+		.btncar {
+			background-color: blue;
+			border-radius: 8px;
+			border: none;
+			color: white;
+			padding: 15px 15px;
+			text-align: center;
+			display: inline-block;
+			font-size: 16px;
+			position: relative;
+			top: 50px;
+			left: 50px;
+		}
+		.table {
+			font-size: 18px;
+		}	
+		th {
+			float: right;
+		}
+		i {
+			color: blue;
+		}	
+		.h2 {
+			margin: auto;
+		    width: 50%;		  
+			text-align: center;
+		}	
+		.backbtn {
+			color: blue;
+			font-size: 16px;
+			position: relative;
+			top: 65px;
+			left: 65px;
+		}	
+		.navbottom {
+			color: white;
+			text-align: center;
+			position: relative;
+			left: 800px;
+			top: 15px;
+		}

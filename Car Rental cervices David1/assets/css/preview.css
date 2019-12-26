@@ -1,0 +1,64 @@
+	body {
+		background-image: url(../images/cars_logo.png);
+		width: 100%;
+	    background-repeat: no-repeat;
+	    background-size: cover;		
+	}
+	p {
+		color: black;
+		font-size: 25px;
+	}		
+	#loggeduser {
+		color: white;
+		font-size: 20px;
+		padding-top: 10px;
+	}	
+	.carselect {
+		font-size: 30px;
+		color: blue;
+	}	
+	h3 {
+		margin: auto;
+		width: 50%;		  
+		text-align: center;
+	}
+	h1 {
+		margin: auto;
+		width: 50%;		  
+		text-align: center;
+	}
+	#checkout {
+		opacity: 0.8;
+		margin: auto;
+		width: 50%;		  
+		text-align: center;
+		position: relative;
+		left: 150px;
+		top: 100px;
+	}	
+	.calspan {
+		font-size: 19px;
+	}	
+	i {
+		color: blue;
+	}	
+	.cardinfo {		  
+		padding-left: 30px;
+	}	
+	.btncard {
+		background-color: blue;
+		border-radius: 8px;
+		border: none;
+		color: white;
+		padding: 15px 15px;
+		text-align: center;
+		display: inline-block;
+		font-size: 16px;
+	}
+	.navbottom {
+		color: white;
+		text-align: center;
+		position: relative;
+		left: 800px;
+		top: 15px;
+	}

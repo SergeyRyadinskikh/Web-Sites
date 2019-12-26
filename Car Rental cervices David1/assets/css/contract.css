@@ -1,0 +1,45 @@
+	body {
+		background-image: url(../images/cars_logo.png);
+		width: 100%;
+	    background-repeat: no-repeat;
+	    background-size: cover;		
+	}		
+	#loggeduser {
+		color: white;
+		font-size: 20px;
+		padding-top: 10px;
+	}
+	#checkout {
+		opacity: 0.8;
+		margin: auto;
+		width: 50%;		  
+		text-align: center;
+		position: relative;
+		left: 90px;
+		top: 100px;
+	}	
+	h2 {
+		margin: auto;
+		width: 50%;		  
+		text-align: center;
+	}
+	i {
+		color: blue;
+	}	
+	.calspan {
+		font-size: 19px;
+	}
+	.brand {
+		font-size: 25px;
+		color: blue;
+	}
+	.navbottom {
+		color: white;
+		text-align: center;
+		position: relative;
+		left: 800px;
+		top: 15px;
+	}	
+	label {
+		padding: 5px;
+	}
